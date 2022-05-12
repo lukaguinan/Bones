@@ -6,14 +6,17 @@
         },
     "tags": [ "crafting_table" ],
     "pattern": [
-        "###",
-        "#G#",
-		"###"
+        "#N#",
+        "NGN",
+		"#N#"
         ],
     "key": {
         "G": {
             "item": "minecraft:gold_ingot"
         },
+	"N": {
+	    "item": "minecraft:netherite_ingot"
+	}
         "#": {
             "item": "minecraft:iron_bars"
         }
