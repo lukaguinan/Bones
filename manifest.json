@@ -1,0 +1,19 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Skeletons and Wither Skeletons drop spawn eggs and slimes no longer spawn!",
+    "name": "Mob-pack",
+    "uuid":"bfe31292-c296-4e1e-80e5-c1a174ebc994",
+    "version": [1, 0, 5],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules":
+    [
+      {
+        "description": "Skeletons!",
+          "type": "data",
+          "uuid": "5baa502c-2497-4d2a-afca-23c260162962",
+          "version": [1, 0, 0]
+      }
+    ]
+}
