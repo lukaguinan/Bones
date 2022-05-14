@@ -1,7 +1,7 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Skeletons and Wither Skeletons drop spawn eggs and slimes no longer spawn!",
+    "description": "Skeletons and Wither Skeletons drop spawn eggs and spawners can be crafted!",
     "name": "Mob-pack",
     "uuid":"bfe31292-c296-4e1e-80e5-c1a174ebc994",
     "version": [1, 0, 5],
