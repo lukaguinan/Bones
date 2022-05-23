@@ -1,8 +1,8 @@
 {
   "format_version": 2,
   "header": {
-    "description": "Skeletons and Wither Skeletons drop spawn eggs and spawners can be crafted!",
-    "name": "Mob-pack",
+    "description": "A mob based behaviour pack for Minecraft Bedrock!",
+    "name": "Bones",
     "uuid":"bfe31292-c296-4e1e-80e5-c1a174ebc994",
     "version": [1, 0, 5],
     "min_engine_version": [1, 16, 0]
@@ -10,7 +10,7 @@
   "modules":
     [
       {
-        "description": "Skeletons!",
+        "description": "Bones1!",
           "type": "data",
           "uuid": "5baa502c-2497-4d2a-afca-23c260162962",
           "version": [1, 0, 0]
